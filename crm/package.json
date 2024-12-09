@@ -22,7 +22,7 @@
         "@keystone-ui/icons": "6.0.2",
         "@keystone-ui/tooltip": "6.0.2",
         "aws-sdk": "2.1381.0",
-        "body-parser": "1.20.2",
+        "body-parser": "1.20.3",
         "date-fns": "2.30.0",
         "date-fns-tz": "2.0.0",
         "ical-generator": "5.0.0",
